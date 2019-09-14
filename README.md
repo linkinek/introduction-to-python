@@ -1,2 +1,2 @@
-# introduction-to-python
+# Introduction to python
 Education from Jetbrains
